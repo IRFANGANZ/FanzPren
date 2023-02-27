@@ -21,4 +21,8 @@ $ git clone https://github.com/IRFANGANZ/FanzPren
 
 $ cd FanzPren
 
-$ python cem.py
+$ python Fanz.py
+
+
+#selamat menikmati
+#salam Perikod 😋
