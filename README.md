@@ -17,8 +17,8 @@ $ pip install rich
 
 $ pkg install play-audio
 
-$ git clone https://github.com/IRFANGANZ/FanzPrem
+$ git clone https://github.com/IRFANGANZ/FanzPren
 
-$ cd FanzPrem
+$ cd FanzPren
 
 $ python cem.py
